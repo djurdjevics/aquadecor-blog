@@ -36,6 +36,11 @@
     "body": {
       "type": "blocks",
       "required": true
+    },
+    "reading_time": {
+      "type": "integer",
+      "required": true,
+      "min": 1
     }
   }
 }
